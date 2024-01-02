@@ -2,10 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=yash013&color=brightgreen" alt="watching_count" />
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-suthar-680a281b9/" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-sharma-55b5821b9/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/imyash_13" target="_blank">
+<a href="https://twitter.com/Shubham079918" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
   </p>
