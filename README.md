@@ -1,5 +1,3 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=yash013&color=brightgreen" alt="watching_count" />
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-sharma-55b5821b9/" target="_blank">
