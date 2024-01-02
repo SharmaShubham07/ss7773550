@@ -43,10 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
 
-***📊 GitHub Stats:***
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash013&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<hr>
 <!--
 **ss7773550/ss7773550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
